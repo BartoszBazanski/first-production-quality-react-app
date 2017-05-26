@@ -18,32 +18,12 @@
     {
       "id": 4,
       "name": "Setup fetch",
-      "isComplete": false
+      "isComplete": true
     },
     {
       "id": 60168,
       "name": "Complete tutorial",
-      "isComplete": false
-    },
-    {
-      "id": 89677,
-      "name": "New Todo",
-      "isComplete": false
-    },
-    {
-      "id": 4638,
-      "name": "Test",
-      "isComplete": false
-    },
-    {
-      "id": 1178,
-      "name": "ffg",
-      "isComplete": false
-    },
-    {
-      "id": 46781,
-      "name": "Another test todo",
-      "isComplete": false
+      "isComplete": true
     }
   ]
 }
